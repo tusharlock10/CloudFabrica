@@ -13,6 +13,7 @@
       "web"
     ],
     "android": {
+      "package": "com.tjproductions.cloudfabrica",
       "adaptiveIcon": {
         "backgroundColor": "#ffffff",
         "foregroundImage": "./assets/icon.png"
